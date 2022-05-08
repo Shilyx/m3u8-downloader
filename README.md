@@ -1,3 +1,5 @@
+### 置入根目录下的m3u8内，完全本地化，不需要联网下载js
+
 # m3u8 视频在线提取工具([English version](https://github.com/Momo707577045/m3u8-downloader/blob/master/README-EN.md))
 
 ![界面](http://upyun.luckly-mjw.cn/Assets/m3u8-download/01.jpeg)
